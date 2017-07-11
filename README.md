@@ -14,3 +14,8 @@ PageRank
     |- nba_team_list.json   NBA球队信息
     |- lpl_result_list      LPL联赛比赛结果（S7赛季春季赛）
     |- lpl_team_list.json   LPL联赛球队信息
+    |- pom.xml              Maven配置文件
+```
+
+## 编译环境
+Maven3+，JDK1.8+
